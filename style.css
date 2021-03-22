@@ -1,0 +1,327 @@
+.shapkatext{
+
+	background-image:url(xK.gif);
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	position:relative;
+	font: italic normal 38pt Impact, fantasy;
+	color:white;
+	height:190px;
+
+}
+
+a{ 
+    text-decoration: none;
+}
+
+body{
+	background-image: url(back.png);
+	\\background-repeat:no-repeat;
+}
+
+.pipboy{
+	float:left;
+    margin:0 80px;
+}
+
+.mario{
+
+	float:left;
+
+    margin:0 80px;
+
+}
+
+
+.robot{
+	float:left;
+    margin:0 80px;
+}
+
+.menu{
+	float:left;
+	margin:0 auto;
+    margin-bottom:100px;
+	\\border: 1px solid blue;
+	font: italic normal  120% Trattatello, fantasy;
+	color:white;
+}
+
+.txtmenu{
+
+	position:relative;
+	bottom:55px;
+	
+}
+
+.txtmenutwo{
+	border:1px red solid;
+	position:relative;
+	bottom:55px;
+	
+	
+	
+}
+
+.osninfa{
+	float:left;
+    \\border:1px solid red;
+	width:100%;
+    height:400px;
+}
+
+.txtwhite{
+	
+	color:white;
+	
+}
+
+.tt{
+    height:400px;
+	width:40%;
+	margin:0 auto;
+    \\border:1px solid blue;
+    position:relative;
+    top:-500px;
+	left:140px;
+	font: italic normal  110% Times New Roman, serif;
+}
+.back{
+	position:relative;
+	bottom:50px;
+    height:455px;
+	width:35%;
+	margin:0 auto;
+    \\border:1px solid blue;
+	background-color:#F489B7;
+	\\opacity: 0.9;
+}
+
+.backtwo{
+	position:relative;
+	bottom:170px;
+	left:260px;
+	background-color:#F489B7;
+	height:130px;
+	width:500px;
+}
+
+.dc{
+
+	float:left;
+	margin-left: 350px ;
+    margin-right: 20px;
+}
+
+.vk{
+
+	float:left;
+	margin-left: 350px;
+    margin-right: 20px;
+
+}
+
+
+.inst{
+	
+	float:left;
+	margin-left: 350px;
+    margin-right: 20px;
+}
+
+.podval{
+	display:block;
+	float:left;
+	margin:0 auto;
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+	\\border: 1px solid red;
+	background-color:#6B1560;
+
+}
+
+.kybok{
+
+	\\float:left;
+	width:250px;
+	height:370px;
+}
+
+
+.lvup{
+
+	\\float:left;
+	position:relative;
+	bottom:170px;
+	width:200px;
+	height:200px;
+
+}
+
+.achivment{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:50%;
+
+}
+
+.time{
+	\\border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+
+}
+
+.virusmex{
+	border:2px solid red;
+	\\display:block;
+	margin: 0 auto;
+	width:60%;
+	\\height:100px;
+
+}
+
+.status{
+	\\border:2px solid red;
+	display:block;
+	margin: 0 auto;
+	width:60%;
+
+}
+
+.lvvert{
+	position:relative;
+	bottom:20px;
+	float:left;
+	width:100px;
+	height:370px;
+
+}
+
+.vlgor{
+
+	position:relative;
+	\\bottom:100px;
+	\\float:left;
+	width:250px;
+	height:370px;
+
+}
+
+.head_txt{
+	font: italic normal 25pt Impact, fantasy;
+	color:white;
+	\\width:100px;
+	float:right;
+	position:relative;
+	top:20px;
+	right:150px;
+	\\margin: 0 auto;
+
+}
+.txt {
+	position:relative;
+	bottom:320px;
+	left:260px;
+	\\border:2px blue solid;
+	height:130px;
+	width:500px;
+	\\float:right;
+}
+
+.backtree{
+	position:relative;
+	bottom:170px;
+	left:340px;
+	background-color:#F489B7;
+	height:190px;
+	width:500px;
+}
+
+.txttwo{
+	position:relative;
+	bottom:380px;
+	left:340px;
+	\\border:2px blue solid;
+	height:190px;
+	width:500px;
+	\\float:right;
+}
+
+.head_txttwo{
+	font: italic normal 25pt Impact, fantasy;
+	color:white;
+	\\width:100px;
+	float:right;
+	position:relative;
+	top:20px;
+	right:220px;
+	\\margin: 0 auto;
+	
+}
+
+.txtfor{
+	position:relative;
+	bottom:150px;
+	left:240px;
+	\\border:2px blue solid;
+	height:110px;
+	width:550px;
+	float:left;
+	
+}
+.backfor{
+	position:relative;
+	bottom:20px;
+	left:340px;
+	background-color:#F489B7;
+	height:110px;
+	width:510px;
+}
+
+.virusbig{
+	\\float:left;
+	position:relative;
+	right:80px;
+	
+}
+
+.virussmall{
+	\\float:left;
+	position:relative;
+	right:150px;
+	bottom:290px;
+}
+
+.head_txtfive{
+	color:white;
+	font: italic normal 25pt Impact, fantasy;
+	float:right;
+	position:relative;
+	top:120px;
+	right:150px;
+	
+}
+
+.txtfive{
+	float:right;
+	position:relative;
+	bottom:400px;
+	right:150px;
+	
+}
+
+.backfive{
+	position:relative;
+	bottom:270px;
+	left:350px;
+	background-color:#F489B7;
+	height:110px;
+	width:510px;
+	
+}
